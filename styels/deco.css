@@ -1,0 +1,14 @@
+.own{
+    text-shadow: 20px;
+    background-color: transparent;
+    background-image: linear-gradient(to right,rgb(255, 0, 140),rgba(0, 255, 234, 0.849));
+    font-family:'Courier New', Courier, monospace;
+}
+.blog{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 2px solid gray;
+    border-radius: 5px;
+}
+.span{
+    transform-origin: 10px;
+}
