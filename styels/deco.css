@@ -1,3 +1,8 @@
+body{
+    max-width: 1500px;
+    margin: auto;
+}
+
 .own{
     color:whitesmoke;
     background-color: transparent;
@@ -63,12 +68,13 @@
     height: 40px;
     width: 100px;
     border: 2px solid gray;
-    background-image: linear-gradient(to right,rgba(255, 0, 140, 0.753),rgba(0, 140, 255, 0.61));
+    background-image: linear-gradient(to right,rgba(255, 0, 140, 0.808),rgba(0, 140, 255, 0.836));
     border-radius: 7px;
-    
+    color: whitesmoke;
 }
 .btn{
     margin: 5px;
     margin-top: 20px;
-    box-shadow:  10px  blue;
+    
+    
 }
